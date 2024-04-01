@@ -29,7 +29,8 @@ const userSchema = new mongoose.Schema({
         default: "",
 
     },
-});
+    // Created At  Updated at
+},  {timestamps: true});
 
 const User = mongoose.model("ChatUser", userSchema);
 
