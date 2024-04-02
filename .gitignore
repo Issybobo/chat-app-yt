@@ -23,3 +23,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+frontend/node_modules/.vite/deps/_metadata.json
+frontend/node_modules/.vite/deps/chunk-4YP5LC2O.js
+frontend/node_modules/.vite/deps/chunk-4YP5LC2O.js.map
+frontend/node_modules/.vite/deps/chunk-S2TLTWWO.js
+frontend/node_modules/.vite/deps/chunk-S2TLTWWO.js.map
+frontend/node_modules/.vite/deps/react_jsx-dev-runtime.js
+frontend/node_modules/.vite/deps/react_jsx-runtime.js
+frontend/node_modules/.vite/deps/react-dom_client.js
+frontend/node_modules/.vite/deps/react-icons_io5.js
+frontend/node_modules/.vite/deps/react-icons_io5.js.map
+frontend/node_modules/.vite/deps/react.js
